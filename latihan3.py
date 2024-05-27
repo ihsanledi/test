@@ -1,0 +1,1 @@
+print("ini latihan ke 3")
